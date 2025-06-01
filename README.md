@@ -16,7 +16,7 @@ Modern bir arayüz, tema seçimi, yazı tipi ayarları, otomatik kaydetme ve dah
 ## 🖼️ Ekran Görüntüsü
 
 
-> `screenshot.png`
+> (screenshot.png)
 
 ## ⚙️ Gereksinimler
 
