@@ -28,4 +28,4 @@ Modern bir arayüz, tema seçimi, yazı tipi ayarları, otomatik kaydetme ve dah
 
 1. Bu repoyu klonla veya `.zip` olarak indir:
    ```bash
-   git clone https://github.com/kullaniciadi/not-defteri.git
+   git clone https://github.com/Fatality995/not-defteri.git
